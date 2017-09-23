@@ -1851,40 +1851,145 @@
     }
   },
   "books": [
-    "Deemo's collection Vol.1A",
-    "Deemo's collection Vol.1B",
-    "Deemo's collection Vol.2",
-    "Shattered Memories",
-    "Samsara collection",
-    "Etude collection",
-    "Collaboration collection",
-    "Rayark selection Vol.1",
-    "Rayark selection Vol.2",
-    "MILI collection",
-    "V.K collection",
-    "Brian Crain collection",
-    "Eshen Chen collection Vol.1 Transmission",
-    "Rayark selection Vol.3",
-    "Cytus selection Vol.1",
-    "Cytus selection Vol.2",
-    "Knight Iris collection",
-    "Knight Rosabell collection",
-    "Aioi collection",
-    "M2U × Nicode collection",
-    "N.M.S.T. collection",
-    "MILI collection Vol.2",
-    "AD:PIANO collection",
-    "Rabpit collection",
-    "L: The Lower collection",
-    "L: The Upper collection",
-    "RAC collection #1",
-    "RAC collection #2",
-    "Sakuzyo collection",
-    "DS:PIANO collection",
-    "RAC collection #3",
-    "RAC collection #4",
-    "RAC collection #5",
-    "Timeline collection",
-    "Other"
+    {
+      "name": "Deemo's collection Vol.1A",
+      "track": 13
+    },
+    {
+      "name": "Deemo's collection Vol.1B",
+      "track": 14
+    },
+    {
+      "name": "Deemo's collection Vol.2",
+      "track": 11
+    },
+    {
+      "name": "Shattered Memories",
+      "track": 18
+    },
+    {
+      "name": "Samsara collection",
+      "track": 10
+    },
+    {
+      "name": "Etude collection",
+      "track": 15
+    },
+    {
+      "name": "Collaboration collection",
+      "track": 5
+    },
+    {
+      "name": "Rayark selection Vol.1",
+      "track": 6
+    },
+    {
+      "name": "Rayark selection Vol.2",
+      "track": 5
+    },
+    {
+      "name": "MILI collection",
+      "track": 5
+    },
+    {
+      "name": "V.K collection",
+      "track": 5
+    },
+    {
+      "name": "Brian Crain collection",
+      "track": 5
+    },
+    {
+      "name": "Eshen Chen collection Vol.1 Transmission",
+      "track": 5
+    },
+    {
+      "name": "Rayark selection Vol.3",
+      "track": 5
+    },
+    {
+      "name": "Cytus selection Vol.1",
+      "track": 5
+    },
+    {
+      "name": "Cytus selection Vol.2",
+      "track": 5
+    },
+    {
+      "name": "Knight Iris collection",
+      "track": 5
+    },
+    {
+      "name": "Knight Rosabell collection",
+      "track": 5
+    },
+    {
+      "name": "Aioi collection",
+      "track": 5
+    },
+    {
+      "name": "M2U × Nicode collection",
+      "track": 5
+    },
+    {
+      "name": "N.M.S.T. collection",
+      "track": 5
+    },
+    {
+      "name": "MILI collection Vol.2",
+      "track": 5
+    },
+    {
+      "name": "AD:PIANO collection",
+      "track": 5
+    },
+    {
+      "name": "Rabpit collection",
+      "track": 5
+    },
+    {
+      "name": "L: The Lower collection",
+      "track": 5
+    },
+    {
+      "name": "L: The Upper collection",
+      "track": 5
+    },
+    {
+      "name": "RAC collection #1",
+      "track": 5
+    },
+    {
+      "name": "RAC collection #2",
+      "track": 5
+    },
+    {
+      "name": "Sakuzyo collection",
+      "track": 5
+    },
+    {
+      "name": "DS:PIANO collection",
+      "track": 5
+    },
+    {
+      "name":"RAC collection #3",
+      "track": 5
+    },
+    {
+      "name":"RAC collection #4",
+      "track": 5
+    },
+    {
+      "name":"RAC collection #5",
+      "track": 5
+    },
+    {
+      "name":"Timeline collection",
+      "track": 5
+    },
+    {
+      "name": "Other",
+      "track": 7
+    }
   ]
 }
