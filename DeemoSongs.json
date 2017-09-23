@@ -439,7 +439,7 @@
       "difficulty": [6, 8, 10, -1],
       "track": 17,
       "book": 3,
-      "fotmat": "wav"
+      "format": "wav"
     },
     "v30springsnowflake": {
       "name": "Spring Snowflake Flower",
