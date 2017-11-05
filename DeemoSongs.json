@@ -449,6 +449,38 @@
       "track": 18,
       "book": 3
     },
+    "v31littlelove": {
+      "name": "Little Love",
+      "artist": "Michiru Oshima",
+      "bpm": "60~70",
+      "difficulty": [1, 4, 5, -1],
+      "track": 19,
+      "book": 3
+    },
+    "v31lonelypianist": {
+      "name": "Lonely Pianist",
+      "artist": "Michiru Oshima",
+      "bpm": "130",
+      "difficulty": [2, 3, 6, -1],
+      "track": 20,
+      "book": 3
+    },
+    "v31miracle": {
+      "name": "Miracle of Daybreak",
+      "artist": "WhiteCapella",
+      "bpm": "76→90",
+      "difficulty": [1, 5, 7, -1],
+      "track": 21,
+      "book": 3
+    },
+    "v31waltz": {
+      "name": "Waltz in Devil's Playground",
+      "artist": "Ramenbot Jr.",
+      "bpm": "85",
+      "difficulty": [2, 4, 7, -1],
+      "track": 22,
+      "book": 3
+    },
     "samsaravoiceofcell": {
       "name": "Voice of Cell",
       "artist": "Michiru Oshima",
@@ -1793,13 +1825,173 @@
       "track": 5,
       "book": 33
     },
+    "rac06ancientrose": {
+      "name": "Ancient Rose",
+      "artist": "SUU",
+      "bpm": "160",
+      "difficulty": [1, 5, 7, -1],
+      "track": 1,
+      "book": 34
+    },
+    "rac06carnation": {
+      "name": "Carnation",
+      "artist": "himmel",
+      "bpm": "118",
+      "difficulty": [1, 5, 8, -1],
+      "track": 2,
+      "book": 34
+    },
+    "rac06delusion": {
+      "name": "Delusion (Yume-Maboroshi)",
+      "artist": "NIKITA",
+      "bpm": "180",
+      "difficulty": [4, 8, 10, -1],
+      "track": 3,
+      "book": 34
+    },
+    "rac06frozenemotion": {
+      "name": "Frozen Emotion",
+      "artist": "XEN",
+      "bpm": "160",
+      "difficulty": [2, 7, 9, -1],
+      "track": 4,
+      "book": 34
+    },
+    "rac06scent": {
+      "name": "Scent",
+      "artist": "farhan",
+      "bpm": "170",
+      "difficulty": [2, 5, 7, -1],
+      "track": 5,
+      "book": 34
+    },
+    "mili03bathtubmermaid": {
+      "name": "Bathtub Mermaid",
+      "artist": "Mili",
+      "bpm": "79",
+      "difficulty": [3, 7, 9, -1],
+      "track": 1,
+      "book": 35
+    },
+    "mili03dk": {
+      "name": "DK",
+      "artist": "Mili",
+      "bpm": "142",
+      "difficulty": [3, 5, 8, -1],
+      "track": 2,
+      "book": 35
+    },
+    "mili03ga1ahad": {
+      "name": "Ga1ahad and Scientific Witchery",
+      "artist": "Mili",
+      "bpm": "166",
+      "difficulty": [5, 8, 10, -1],
+      "track": 3,
+      "book": 35
+    },
+    "mili03ikutoshitsuki": {
+      "name": "Ikutoshitsuki",
+      "artist": "Mili",
+      "bpm": "87",
+      "difficulty": [3, 6, 8, -1],
+      "track": 4,
+      "book": 35
+    },
+    "mili03milk": {
+      "name": "Milk",
+      "artist": "Mili",
+      "bpm": "132",
+      "difficulty": [3, 7, 9, -1],
+      "track": 5,
+      "book": 35
+    },
+    "crankyrainofflowers": {
+      "name": "Rain of Flowers",
+      "artist": "VILA",
+      "bpm": "",
+      "difficulty": [1, 3, 5, -1],
+      "track": 1,
+      "book": 36
+    },
+    "cranky14bunnies": {
+      "name": "The Bisque Doll and 14 Bunnies",
+      "artist": "VILA",
+      "bpm": "",
+      "difficulty": [4, 6, 8, -1],
+      "track": 2,
+      "book": 36
+    },
+    "crankyanotherkatharsis": {
+      "name": "Another Katharsis",
+      "artist": "VILA",
+      "bpm": "",
+      "difficulty": [2, 7, 9, -1],
+      "track": 3,
+      "book": 36
+    },
+    "crankyeternity": {
+      "name": "Eternity",
+      "artist": "Cranky",
+      "bpm": "",
+      "difficulty": [3, 6, 8, -1],
+      "track": 4,
+      "book": 36
+    },
+    "crankyconflict": {
+      "name": "Conflict (VILA Remix)",
+      "artist": "shiromaru + cranky",
+      "bpm": "",
+      "difficulty": [5, 7, 10, -1],
+      "track": 5,
+      "book": 36
+    },
+    "yamajetamidelicious": {
+      "name": "Am I delicious",
+      "artist": "Yamajet feat. Amane(COOL&CREATE) & Godspeed",
+      "bpm": "",
+      "difficulty": [3, 6, 8, -1],
+      "track": 1,
+      "book": 37
+    },
+    "yamajetmerrygoroundgirl": {
+      "name": "Merry go round girl",
+      "artist": "Yamajet",
+      "bpm": "",
+      "difficulty": [2, 5, 8, -1],
+      "track": 2,
+      "book": 37
+    },
+    "yamajetmonokuronokaze": {
+      "name": "Monokuro no kaze",
+      "artist": "Yamajet feat. TEA & Godspeed",
+      "bpm": "",
+      "difficulty": [4, 6, 9, -1],
+      "track": 3,
+      "book": 37
+    },
+    "yamajetorca": {
+      "name": "Orca",
+      "artist": "Yamajet",
+      "bpm": "",
+      "difficulty": [3, 5, 9, -1],
+      "track": 4,
+      "book": 37
+    },
+    "yamajetsincerity": {
+      "name": "Sincerity",
+      "artist": "Yamajet",
+      "bpm": "",
+      "difficulty": [2, 6, 9, -1],
+      "track": 5,
+      "book": 37
+    },
     "bgm_basement": {
       "name": "BGM Basement",
       "artist": "?",
       "bpm": "?",
       "difficulty": [-1, -1, -1, -1],
       "track": 1,
-      "book": 34
+      "book": 38
     },
     "bgm_first_floor": {
       "name": "BGM First Floor",
@@ -1807,7 +1999,7 @@
       "bpm": "?",
       "difficulty": [-1, -1, -1, -1],
       "track": 2,
-      "book": 34
+      "book": 38
     },
     "bgm_second_floor": {
       "name": "BGM Second Floor",
@@ -1815,7 +2007,7 @@
       "bpm": "?",
       "difficulty": [-1, -1, -1, -1],
       "track": 3,
-      "book": 34
+      "book": 38
     },
     "bgm_top": {
       "name": "BGM Top",
@@ -1823,7 +2015,7 @@
       "bpm": "?",
       "difficulty": [-1, -1, -1, -1],
       "track": 4,
-      "book": 34
+      "book": 38
     },
     "Deemo Manual Day Music": {
       "name": "Deemo Manual Day Music",
@@ -1831,7 +2023,7 @@
       "bpm": "?",
       "difficulty": [-1, -1, -1, -1],
       "track": 5,
-      "book": 34
+      "book": 38
     },
     "Deemo Manual Night Music": {
       "name": "Deemo Manual Night Music",
@@ -1839,7 +2031,7 @@
       "bpm": "?",
       "difficulty": [-1, -1, -1, -1],
       "track": 6,
-      "book": 34
+      "book": 38
     },
     "feastofspring": {
       "name": "Feast of Spring",
@@ -1847,7 +2039,7 @@
       "bpm": "200",
       "difficulty": [-1, -1, -1, -1],
       "track": 7,
-      "book": 34
+      "book": 38
     }
   },
   "books": [
@@ -1865,7 +2057,7 @@
     },
     {
       "name": "Shattered Memories",
-      "track": 18
+      "track": 22
     },
     {
       "name": "Samsara collection",
@@ -1972,19 +2164,35 @@
       "track": 5
     },
     {
-      "name":"RAC collection #3",
+      "name": "RAC collection #3",
       "track": 5
     },
     {
-      "name":"RAC collection #4",
+      "name": "RAC collection #4",
       "track": 5
     },
     {
-      "name":"RAC collection #5",
+      "name": "RAC collection #5",
       "track": 5
     },
     {
-      "name":"Timeline collection",
+      "name": "Timeline collection",
+      "track": 5
+    },
+    {
+      "name": "RAC Collection #6",
+      "track": 5
+    },
+    {
+      "name": "MILI collection Vol.3",
+      "track": 5
+    },
+    {
+      "name": "Cranky collection",
+      "track": 5
+    },
+    {
+      "name": "Yamajet collection",
       "track": 5
     },
     {
